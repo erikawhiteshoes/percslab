@@ -1,0 +1,10 @@
+#stage {
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 400px;
+  background: #ca3;
+  position: relative; }
+
+.instrument {
+  position: inline-block; }
